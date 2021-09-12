@@ -1,3 +1,5 @@
+//Three Switch toggle Red Green Blink Yellow
+
 const int buttonPin1 = 11;
 const int buttonPin2 = 10;
 const int buttonPin3 = 9;
